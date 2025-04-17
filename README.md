@@ -59,7 +59,7 @@ SecurityEvent
 | where FailedAttempts > 5
 | order by FailedAttempts desc
 
-##✅ Results & Outcome
+#### ✅ Results & Outcome
 -Successfully deployed Microsoft Sentinel and integrated it with a honeypot VM.
 -Created and validated functional custom detection rules using KQL.
 -Received accurate alerts for:
