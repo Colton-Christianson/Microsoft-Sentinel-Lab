@@ -1,12 +1,12 @@
 # Security Information and Event Management (SIEM) Project Summary
 
-## 🎯 Objective  
+## Objective  
 Design and implement a Security Information and Event Management (SIEM) solution to gain hands-on experience with cybersecurity tools and further develop skills for a career in IT and cybersecurity.
 
-## 🔍 Scope  
+## Scope  
 Deployed a small, cloud-based network environment using Microsoft Azure. A Linux virtual machine with an exposed RDP port served as a honeypot to attract malicious actors. Microsoft Sentinel was used as the SIEM tool to collect and analyze security events from the environment.
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 - **Cloud Platform:** [Microsoft Azure](https://portal.azure.com)  
 - **SIEM Solution:** Microsoft Sentinel  
 - **Log Sources:** Windows Security Events via Azure Monitor Agent (AMA)  
@@ -16,14 +16,14 @@ Deployed a small, cloud-based network environment using Microsoft Azure. A Linux
 
 ---
 
-## 📋 Planning & Requirements
+## Planning & Requirements
 
 ### ✅ Prerequisites
 - Azure Resource Group  
 - Deployed Windows Virtual Machine (VM)  
 - Appropriate IAM permissions for Sentinel and Log Analytics  
 
-### 🧭 Implementation Steps
+### Implementation Steps
 
 #### 1. Create Log Analytics Workspace
 - Navigate to Azure Portal → Log Analytics Workspaces → Create & Configure  
