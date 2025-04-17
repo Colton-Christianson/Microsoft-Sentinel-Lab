@@ -60,12 +60,12 @@ SecurityEvent
 | order by FailedAttempts desc
 
 ##✅ Results & Outcome
-
 -Successfully deployed Microsoft Sentinel and integrated it with a honeypot VM.
 -Created and validated functional custom detection rules using KQL.
 -Received accurate alerts for:
   -Successful sign-ins (via personal RDP login activity).
   -Failed sign-in attempt on March 28th at 17:35:19 from an IP address in India (111.118.179.0/24).
+  
 ![A wild hacker appears!!!](https://github.com/user-attachments/assets/64e5e998-bbbb-41bf-ba44-67bfc3f23fc7)
 ![65% sus](https://github.com/user-attachments/assets/d83dc38c-4c3d-4f45-98e6-627439c0d459)
 
